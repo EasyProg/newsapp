@@ -1,0 +1,38 @@
+.sourceItem {
+    height:200px;
+    width:300px;
+    background: #bddb17;
+    position:relative;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:20px;
+    color:beige;
+    border-radius: 15px;
+}
+.sourceItemNew {
+    height:200px;
+    width:300px;
+    background: #bddb17;
+    position:relative;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:20px;
+    color:beige;
+    border-radius: 15px;
+}
+.hoverBlock  {
+    text-align: center;
+}
+.hoverBlock>button  {
+    border:none;
+    background: cornflowerblue;
+    border-radius: 3px;
+    color:white;
+}
+.hoverBlock>button:hover  {
+    cursor:pointer;
+}

@@ -1,0 +1,10 @@
+.selectContainer {
+   position:absolute;
+   height:100%;
+   width:30%;
+   background: #ffffff;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+}
